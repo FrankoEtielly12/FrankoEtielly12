@@ -1,6 +1,8 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/franko-etielly-0959b860" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="[https://instagram.com/franko_etielly?igshid=YmMyMTA2M2Y="] target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
+### Hi 👋
+Busco oportunidades e colaboração em projetos relacionados ao desenvolvimento FrontEnd.
+- 🔭 Trabalho na area Comercial.
+- 🌱 Atualmente, faço o curso de Programador FrontEnd pelo SENAI.
+ 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=FrankoEtielly12)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Franko Etielly/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/franko_etielly/)
